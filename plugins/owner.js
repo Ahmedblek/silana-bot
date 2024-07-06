@@ -3,7 +3,7 @@ let handler = async (m, { conn }) => {
   let caption = `
 *「 معلومات عن صاحب البوت 」*
 
-*Number :*\nwa.me/212717457920
+*Number :*\nwa.me/967733197755
 *instagram:*\ninstagram.com/noureddine_ouafy
 
 *youtube:*\nyoutube.com/@noureddineouafy2
@@ -15,9 +15,9 @@ let handler = async (m, { conn }) => {
 `.trim()
   m.reply(caption)
 }
-handler.help = ['owner']
-handler.tags = ['infobot']
-handler.command = /^(owner)$/i
+handler.help = ['kntrool']
+handler.tags = ['kntroolbot']
+handler.command = /^(kntrool)$/i
 handler.limit = false
 
 export default handler
