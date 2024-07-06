@@ -20,7 +20,7 @@ global.info = {
  nameown: 'kntrool',
  nomerown: '967733197755',
  packname: 'sticker by ',
- author: 'Noureddine',
+ author: 'ahmed',
  namebot: 'ꜱɪʟᴀɴᴀ',
  wm: ''-'_꩜kntrool 𝘣𝘰𝘵 ꩜_'-'',
  stickpack: 'Whatsapp',
